@@ -1,6 +1,7 @@
 export {
   arbitrum,
   arbitrumGoerli,
+  arbitrumNova,
   aurora,
   auroraTestnet,
   avalanche,
